@@ -98,44 +98,6 @@ I thrive on turning complex problems into clean, efficient solutions — like th
 - 🛡️ Enforced ** test coverage** with JUnit & Mockito, significantly reducing production bug incidents
 
 
----
-
-## 🗂️ Projects
-
-### 🌾 Crop-Photo — AI Image Processing Pipeline
-`Java` `GenAI` `AWS S3` `Batch Processing` `CloudWatch`
-
-> An automated image pipeline integrating GenAI models to eliminate manual editing at scale.
-
-- Reduced manual image editing effort by **80%** through GenAI model integration
-- Engineered stable batch processing for **500+ images/run** with zero OOM failures
-- Designed AWS S3 architecture enabling **2x processing capacity** without infrastructure changes
-- Instrumented logging & monitoring that cut issue detection time by **30%**
-
----
-
-### 📦 Roboteon — Warehouse Management System
-`Spring Boot` `PostgreSQL` `Real-time Inventory` `Indexing`
-
-> A high-throughput warehouse transaction system with real-time stock tracking.
-
-- Processes **1,000+ daily transactions** with real-time inventory synchronization
-- Applied query optimization & indexing for **35% faster order processing**
-- Automated stock workflows with validation checks → **15% fewer inventory mismatches**
-
----
-
-### 🧩 Sudoku Solver Visualizer
-`Backtracking Algorithm` `Visualization` `Interactive UI`
-
-> A real-time visualizer animating the recursive backtracking algorithm step by step.
-
-- Solves any valid Sudoku board with **100% accuracy**
-- Animated recursive decision tree reducing comprehension time by **40%**
-- Dual-mode UI (manual + auto-solve) cutting puzzle completion time by **60%**
-
----
-
 ## 🎖️ Achievements
 
 <div align="center">
